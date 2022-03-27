@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: ba5a8d78-779c-a0e3-0af0-172aabd3905e
 resourcetype: Document
 title: 14.123 Microeconomic Theory III, 2011 Problem Set 1 Solutions
 uid: 49b5ab29-6e9f-0465-b9af-efe36606106e

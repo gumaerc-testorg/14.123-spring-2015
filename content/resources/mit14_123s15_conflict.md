@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes and Slides
 parent_type: CourseSection
+parent_uid: 19482ca2-66e4-9c67-a3c3-7987aa262ee0
 resourcetype: Document
 title: 14.123 S15 Microeconomic Theory III, Internal Conflict Lecture Slides
 uid: 7c060889-a2d3-b831-216e-3365a499f94d

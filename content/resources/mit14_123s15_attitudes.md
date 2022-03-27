@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes and Slides
 parent_type: CourseSection
+parent_uid: 19482ca2-66e4-9c67-a3c3-7987aa262ee0
 resourcetype: Document
 title: 14.123 S15 Microeconomic Theory III, Attitudes Towards Risk Lecture Slides
 uid: 81e86df5-2f79-11ba-22af-879e1dfd8ec0

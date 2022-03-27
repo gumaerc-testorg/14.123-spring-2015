@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes and Slides
 parent_type: CourseSection
+parent_uid: 19482ca2-66e4-9c67-a3c3-7987aa262ee0
 resourcetype: Document
 title: 14.123 S15 Microeconomic Theory III, Choice Theory - A Synopsis Lecture Slides
 uid: 9e851696-7fff-f99b-2dae-b032eaa18850
