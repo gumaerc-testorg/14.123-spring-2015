@@ -6,6 +6,7 @@ file: /courses/14-123-microeconomic-theory-iii-spring-2015/81e86df52f7911ba22af8
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes and Slides
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 14.123 S15 Microeconomic Theory III, Attitudes Towards Risk Lecture Slide
 uid: 81e86df5-2f79-11ba-22af-879e1dfd8ec0
 ---
 This file contains information regarding attitudes towards risk lecture slides.
-

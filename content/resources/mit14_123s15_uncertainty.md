@@ -6,6 +6,7 @@ file: /courses/14-123-microeconomic-theory-iii-spring-2015/f6d298f3bda1071c3021f
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes and Slides
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: 14.123 S15 Microeconomic Theory III, Decision Making Under Uncertainty Le
 uid: f6d298f3-bda1-071c-3021-fd5ae8a08bb9
 ---
 This file contains information regarding decision making under uncertainty lecture slides.
-

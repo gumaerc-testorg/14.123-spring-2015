@@ -6,6 +6,7 @@ file: /courses/14-123-microeconomic-theory-iii-spring-2015/9e8516967ffff99b2daeb
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes and Slides
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 14.123 S15 Microeconomic Theory III, Choice Theory - A Synopsis Lecture S
 uid: 9e851696-7fff-f99b-2dae-b032eaa18850
 ---
 This file contains information regarding choice theory - a synopsis lecture slides.
-

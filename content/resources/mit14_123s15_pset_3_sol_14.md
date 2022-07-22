@@ -5,6 +5,7 @@ file: /courses/14-123-microeconomic-theory-iii-spring-2015/9dc29a34597c9cd297704
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 14.123 Microeconomic Theory III, 2014 Problem Set 3 Solutions
 uid: 9dc29a34-597c-9cd2-9770-4eb30dd4754f
 ---
 This file contains information regarding 2014 problem set 3 solutions.
-

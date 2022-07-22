@@ -6,6 +6,7 @@ file: /courses/14-123-microeconomic-theory-iii-spring-2015/d917e386e82a13be89927
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes and Slides
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: 14.123 S15 Microeconomic Theory III, Subjective Expected Utility Recitati
 uid: d917e386-e82a-13be-8992-7e0657d9a9ff
 ---
 This file contains information regarding subjective expected utility recitation notes.
-

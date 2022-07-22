@@ -6,6 +6,7 @@ file: /courses/14-123-microeconomic-theory-iii-spring-2015/646b602618611317bdf39
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes and Slides
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 14.123 S15 Microeconomic Theory III, Expected Utility
 uid: 646b6026-1861-1317-bdf3-945741a433dc
 ---
 This file contains information regarding expected utility 2 recitation notes.
-
