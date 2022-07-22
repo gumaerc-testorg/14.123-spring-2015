@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This syllabus section provides information on course meeting times, prerequisites,
+  texts, grading, and course topics.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 71879fec-e6b2-eed1-b04f-c46021d9ca4d
 ---
@@ -30,7 +34,7 @@ Grading
 
 The grading will be based on five problem sets (40%) and a final exam (60%). In each problem set, there will be one problem that is to be graded, and several other problems that are not for a grade. I encourage you to work on the problem sets together, but you need to write your solution to the problem for a grade by yourself. Although the other problems are not for a grade, I encourage you to work on them and submit your solutions for feedback.
 
-See the [Assignments section]({{< baseurl >}}/pages/assignments)
+See the {{% resource_link ba5a8d78-779c-a0e3-0af0-172aabd3905e "Assignments section" %}}
 
 Topics Outline
 --------------
