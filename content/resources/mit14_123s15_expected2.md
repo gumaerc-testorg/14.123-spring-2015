@@ -3,6 +3,7 @@ content_type: resource
 description: This file contains information regarding expected utility 2 recitation
   notes.
 file: /courses/14-123-microeconomic-theory-iii-spring-2015/646b602618611317bdf3945741a433dc_MIT14_123S15_expected2.pdf
+file_size: 305457
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
