@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains information regarding 2014 problem set 1 solutions.
 file: /courses/14-123-microeconomic-theory-iii-spring-2015/2a39a38a3b0279bed31670cfa31414a3_MIT14_123S15_PSet_1_Sol_14.pdf
+file_size: 153580
 file_type: application/pdf
 learning_resource_types:
 - Assignments
