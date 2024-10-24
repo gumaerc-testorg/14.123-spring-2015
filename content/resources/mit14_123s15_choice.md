@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains information regarding choice theory - a synopsis lecture
   slides.
-file: /courses/14-123-microeconomic-theory-iii-spring-2015/9e8516967ffff99b2daeb032eaa18850_MIT14_123S15_choice.pdf
+file: /ol-ocw-studio-app/courses/14-123-microeconomic-theory-iii-spring-2015/9e8516967ffff99b2daeb032eaa18850_MIT14_123S15_choice.pdf
 file_size: 287317
 file_type: application/pdf
 learning_resource_types:
