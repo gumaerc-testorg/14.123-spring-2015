@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains information regarding critiques & alternatives to
   expected utility theory lecture slides.
-file: /ol-ocw-studio-app/courses/14-123-microeconomic-theory-iii-spring-2015/6d6b28e1a3813503eef8243b057f9817_MIT14_123S15_utility.pdf
+file: /courses/14-123-microeconomic-theory-iii-spring-2015/6d6b28e1a3813503eef8243b057f9817_MIT14_123S15_utility.pdf
 file_size: 900226
 file_type: application/pdf
 learning_resource_types:
