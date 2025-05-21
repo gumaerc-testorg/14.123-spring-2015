@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains information regarding decision making under risk lecture
   slides.
-file: /ol-ocw-studio-app/courses/14-123-microeconomic-theory-iii-spring-2015/a8b0b0de1bebe039bc3cccc15f1b756f_MIT14_123S15_decision.pdf
+file: /courses/14-123-microeconomic-theory-iii-spring-2015/a8b0b0de1bebe039bc3cccc15f1b756f_MIT14_123S15_decision.pdf
 file_size: 304094
 file_type: application/pdf
 learning_resource_types:
