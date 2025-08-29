@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding 2010 problem set 2 solutions.
-file: /courses/14-123-microeconomic-theory-iii-spring-2015/238daef6e37825301bcb48775877de59_MIT14_123S15_PSet_2_Sol_10.pdf
+file: /ol-ocw-studio-app/courses/14-123-microeconomic-theory-iii-spring-2015/238daef6e37825301bcb48775877de59_MIT14_123S15_PSet_2_Sol_10.pdf
 file_size: 225127
 file_type: application/pdf
 learning_resource_types:
