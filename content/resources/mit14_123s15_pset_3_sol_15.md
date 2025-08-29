@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding 2015 problem set 3 solutions.
-file: /courses/14-123-microeconomic-theory-iii-spring-2015/b5ba744a02d4803148e7f30584ae705d_MIT14_123S15_PSet_3_Sol_15.pdf
+file: /ol-ocw-studio-app/courses/14-123-microeconomic-theory-iii-spring-2015/b5ba744a02d4803148e7f30584ae705d_MIT14_123S15_PSet_3_Sol_15.pdf
 file_size: 203887
 file_type: application/pdf
 learning_resource_types:
